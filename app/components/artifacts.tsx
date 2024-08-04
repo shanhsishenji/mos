@@ -6,7 +6,7 @@ import { nanoid } from "nanoid";
 import ExportIcon from "../icons/share.svg";
 import CopyIcon from "../icons/copy.svg";
 import DownloadIcon from "../icons/download.svg";
-import GithubIcon from "../icons/github.svg";
+import GithubIcon from "../icons/qq.svg";
 import LoadingButtonIcon from "../icons/loading.svg";
 import Locale from "../locales";
 import { Modal, showToast } from "./ui-lib";
